@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Krishan Kumar Sahu 👋
 
-<!--
-**krishansahu-dev/krishansahu-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student
 
-Here are some ideas to get you started:
+📊 Aspiring Data Analyst passionate about transforming raw data into meaningful insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+* SQL
+* Python
+* Power BI
+* Excel
+* Data Analysis
+
+## Currently Learning
+
+* Advanced SQL
+* Python for Data Analysis
+* Power BI Dashboard Development
+
+## Connect With Me
+
+LinkedIn: www.linkedin.com/in/krishan-kumar-0a7b02371
+
+Email: sachinsha018@gmail.com
